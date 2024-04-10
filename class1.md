@@ -6,6 +6,7 @@
 2. 建议使用 internLM2微调
 3. InternLM2-chat拥有很好的共情能力
 <img width="629" alt="image" src="images/体系.png">
+
 ### internLM2 的关键技术
 1. 多维度数据评估
 2. 高质量语料
@@ -24,12 +25,12 @@
 ### 全链条架构--支持微调，评测和多种工具的应用
 <img width="629" alt="image" src="images/全链条.png">
 
-## Xtuner--高效的微调框架
+#### Xtuner--高效的微调框架
 <img width="629" alt="image" src="images/微调.png">
 
-## LMDeploy--提供了部署的全流程
+#### LMDeploy--提供了部署的全流程
 <img width="629" alt="image" src="images/部署.png">
 
-## 智能体
+#### 智能体
 
 <img width="629" alt="image" src="images/智能体.png">
